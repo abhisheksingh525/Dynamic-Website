@@ -1,0 +1,1 @@
+Q ) Write a Program to reverse a string without using String inbuilt function.

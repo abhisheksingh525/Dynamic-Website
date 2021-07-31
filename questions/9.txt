@@ -1,0 +1,1 @@
+Q. How to get the matching elements in an integer array?

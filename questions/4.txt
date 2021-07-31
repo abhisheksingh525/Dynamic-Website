@@ -1,0 +1,1 @@
+Q. How is a bubble sort algorithm implemented?

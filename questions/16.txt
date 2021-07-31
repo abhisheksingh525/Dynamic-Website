@@ -1,0 +1,1 @@
+Q. How to remove special characters in a string that is in lowercase?
