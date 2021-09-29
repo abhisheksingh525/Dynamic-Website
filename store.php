@@ -21,6 +21,7 @@ fwrite($file, $text);
 fclose($file);
 fclose($f);
 echo " Your data has been submitted successfully<br>";
+echo "great work";
 
 }
 else{
